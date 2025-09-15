@@ -5,3 +5,5 @@ class Stack:
     #push element to stack
     def push(self, item):
         self.stack.append
+        
+        #fdfd
