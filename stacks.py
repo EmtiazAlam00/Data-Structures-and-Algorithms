@@ -34,4 +34,4 @@ class Stack:
     def display(self):
         print("Stack (top → bottom):", list(reversed(self.stack)))
 
-#------
+#---------
