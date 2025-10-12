@@ -399,7 +399,3 @@ cdll.delete(20)
 cdll.display()
 cdll.reverse()
 cdll.display()
-
-jjjj
-
-    
